@@ -40,3 +40,8 @@
 normal _italic_ normal
 ***
 [Google先生](https://www.google.co.jp/)
+
+https://www.google.co.jp/
+
+    https://www.google.co.jp/
+
