@@ -39,3 +39,4 @@
  normal *italic* normal
 normal _italic_ normal
 ***
+[Google先生](https://www.google.co.jp/)
